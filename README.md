@@ -1,4 +1,4 @@
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)\
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Vineeth S</h1>
 <h3 align="center">A passionate full stack developer from India. I like to explore new technologies and develop software solutions and quick hacks.</h3>
 
