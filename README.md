@@ -42,5 +42,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![vineethoffl's Stats](https://github-readme-stats.vercel.app/api?username=vineethoffl&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-![vineethoffl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethoffl&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 ![Vineethoffl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vineethoffl&theme=algolia&hide_border=true)
+![vineethoffl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethoffl&theme=algolia&show_icons=true&hide_border=true&layout=compact)
