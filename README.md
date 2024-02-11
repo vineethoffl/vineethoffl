@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on [Banking domain](cu-projects)
 - 👯 I’m looking to collaborate on [Ecommerce](ekart-project)
 - 🤝 I’m looking for help with [Dynamic Projects](vineeth-s-dynamic)
-- 🌱 I’m currently learning ** React, Node, MongoDB, Express, Docker, Kubernetes**
-- 💬 Ask me about ** JavaScript, SQL, HTML, CSS, Bootstrap, C# ASP.NET, ASP.NET.Core,.NET MVC, .NET Web API, WCF,ADO.NET**
+- 🌱 I’m currently learning **React, Node, MongoDB, Express, Docker, Kubernetes**
+- 💬 Ask me about **JavaScript, SQL, HTML, CSS, Bootstrap, C# ASP.NET, ASP.NET.Core,.NET MVC, .NET Web API, WCF,ADO.NET**
 - 📫 How to reach me **vineethsputhenveettil@gmail.com**
 - 👨‍💻 All of my projects are available at [vineeth-s-portfolio](vineeth-s-portfolio)
 - 📝 I regularly write articles on [vineeth-s-blog](vineeth-s-blog)
