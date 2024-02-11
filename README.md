@@ -2,7 +2,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Vineeth S</h1>
 <h3 align="center">A passionate full stack developer from India. I like to explore new technologies and develop software solutions and quick hacks.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethoffl&label=Profile%20views&color=0e75b6&style=flat" alt="vineethoffl" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=vineethoffl&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineethoffl&theme=default" alt="vineethoffl" /></a> </p>
 
@@ -63,7 +64,7 @@
 ### 📊 &nbsp;Overall GitHub Analytics
 <!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vineethoffl?cardType=github&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card) -->
  [![Vineeth's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vineethoffl?cardType=octocat&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vineethoffl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+![](https://github-readme-stats.vercel.app/api?username=vineethoffl&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
