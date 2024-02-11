@@ -60,7 +60,8 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vineethoffl&theme=algolia" alt="vineethoffl" /></p>
 
- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=algolia&preferLogin=false">    <img  alt="vineethoffl's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vineethoffl?cardType=github&theme=algolia&preferLogin=false" />  </a> 
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vineethoffl?cardType=github&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vineethoffl?cardType=octocat&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vineethoffl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
