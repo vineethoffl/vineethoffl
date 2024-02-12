@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineethoffl&theme=default" alt="vineethoffl" /></a> </p>
 
-- 🔭 I’m currently working on [Banking domain](cu-projects)
+- 🔭 I’m currently working on [ClaySys Technologies](cu-projects)
 - 👯 I’m looking to collaborate on [Ecommerce](ekart-project)
 - 🤝 I’m looking for help with [Dynamic Projects](vineeth-s-dynamic)
 - 🌱 I’m currently learning **React, Node, MongoDB, Express, Docker, Kubernetes**
