@@ -5,9 +5,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I+~+I'm+a+Full-Stack+Developer+~+!" alt="Typing SVG" /></a>
 </h3> 
 <h3 align="center">A passionate full stack developer from India. I like to explore new technologies and develop software solutions and quick hacks.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethoffl&label=Profile%20views&color=0e75b6&style=flat" alt="vineethoffl" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=vineethoffl&icon=5&color=1)](https://visitcount.itsvg.in)
-
+<!-- [![](https://visitcount.itsvg.in/api?id=vineethoffl&icon=5&color=1)](https://visitcount.itsvg.in) -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineethoffl&theme=default" alt="vineethoffl" /></a> </p>
 
 - 🔭 I’m currently working on [ClaySys Technologies](cu-projects)
