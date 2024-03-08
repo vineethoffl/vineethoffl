@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineethoffl&theme=default" alt="vineethoffl" /></a> </p>
 
 - 🔭 I’m currently working on [Adesso India](insurance-projects)
-- 👯 I’m looking to collaborate on [Ecommerce](ekart-project)
+- 👯 I’m looking to collaborate on [Ecommerce/Automobile](ekart-project)
 - 🤝 I’m looking for help with [Dynamic Projects](vineeth-s-dynamic)
 - 🌱 I’m currently learning **React, Angular, Node, MongoDB, Express, Docker, Kubernetes**
 - 💬 Ask me about **JavaScript, SQL, HTML, CSS, Bootstrap, C# ASP.NET, ASP.NET.Core,.NET MVC, .NET Web API, WCF,ADO.NET, SQL Server**
