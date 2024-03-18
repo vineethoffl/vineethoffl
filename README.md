@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vineeth S</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I+~+I'm+a+Full-Stack+Developer+~+!" alt="Typing SVG"/></a>
-</h3> 
+</h3>
 <h3 align="center">A passionate full stack developer from India. I like to explore new technologies and develop software solutions and quick hacks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethoffl&label=Profile%20views&color=0e75b6&style=flat" alt="vineethoffl" /> </p>
 
