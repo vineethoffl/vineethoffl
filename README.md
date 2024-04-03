@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **React, Angular, Node, MongoDB, Express, Docker, Kubernetes, Azure, AWS**
 - 💬 Ask me about **JavaScript, SQL, HTML, CSS, Bootstrap, C# ASP.NET, ASP.NET.Core,.NET MVC, .NET Web API, WCF,ADO.NET, SQL Server**
 - 📫 How to reach me **vineethsputhenveettil@gmail.com**
-- 👨‍💻 All of my projects are available at [vineeth-s-portfolio](vineeth-s-portfolio)
+- 👨‍💻 All of my projects are available at [vineeth-s-portfolio](https://www.crio.do/learn/portfolio/svineethsaji/?edit=true)
 - 📝 I regularly write articles on [vineeth-s-blog](vineeth-s-blog)
 - 📄 Know about my experiences [vineeth-s-resume](vineeth-s-resume)
 - ⚡ Fun fact **I'm a tech time traveler**
