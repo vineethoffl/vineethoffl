@@ -1,5 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center">Hi 👋, I'm Vineeth S</h1>
+<h1 align="center">Hi 👋, I'm Vineeth S</h1> 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I+~+I'm+a+Full-Stack+Developer+~+!" alt="Typing SVG"/></a>
 </h3>
